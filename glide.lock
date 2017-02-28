@@ -1,0 +1,14 @@
+hash: ca56228e7c8f1aa836477daa640c56e239d88fdbe9967dbff9eb177adb2506cc
+updated: 2017-02-27T23:19:54.068754864+07:00
+imports:
+- name: github.com/dghubble/go-twitter
+  version: fc93bb35701bb85903d17daa80a21a824b9c592f
+  subpackages:
+  - twitter
+- name: github.com/dghubble/oauth1
+  version: 3c7784d12fed88888d612324ea6897f7dc30723e
+- name: github.com/gorilla/websocket
+  version: 3f3e394da2b801fbe732a935ef40724762a67a07
+- name: golang.org/x/oauth2
+  version: b9780ec78894ab900c062d58ee3076cd9b2a4501
+devImports: []

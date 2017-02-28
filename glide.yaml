@@ -1,0 +1,8 @@
+package: trial
+import:
+- package: github.com/dghubble/go-twitter
+  subpackages:
+  - twitter
+- package: github.com/gorilla/websocket
+- package: golang.org/x/oauth2
+- package: github.com/dghubble/oauth1
